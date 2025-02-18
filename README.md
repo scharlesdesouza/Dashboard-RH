@@ -1,5 +1,13 @@
 # Dashboard de Análise de RH
 
+#  Atenção!!! 
+## Download do Arquivo Power BI
+
+O arquivo do Power BI é grande demais para ser carregado diretamente no GitHub. Você pode baixá-lo a partir do link abaixo:
+
+[Download do Arquivo Power BI](https://drive.google.com/file/d/1NtL0TO3sq14KZaQRUo-VI7GEuEycKpCh/view?usp=drive_link)
+
+
 ## Visão Geral
 Este projeto tem como objetivo a criação de um **dashboard interativo** para a análise de dados da área de Recursos Humanos (RH). O dashboard permitirá visualizar informações importantes sobre contratações, demissões, headcount, massa salarial, turnover, e distribuição dos funcionários por aspectos qualitativos.
 
